@@ -1,2 +1,2 @@
 # bharatIntern
-This netflix is site is created by Uttkarsh Pandita
+This netflix  site is created by Uttkarsh Pandita
